@@ -22,7 +22,7 @@ Here is the lap vs lap tyre and race pace for the drivers which makes it easy to
  FastF1 -  for the race data 
  matplotlib - for all the plotting 
  seaborn - for the visualisation
-### Data Source
- FASTF1 - Here you can get all the race data from F1
-### Next Step
- Next step will be predicting championship using the data of first 12 round of the Calender before the summer break.
+## Data Source
+FASTF1 - Here you can get all the race data from F1
+## Next Step
+Next step will be predicting championship using the data of first 12 round of the Calender before the summer break.
