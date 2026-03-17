@@ -13,3 +13,16 @@ they could crash.
 1. Hamilton pitted a lap earlier than Charles Leclrec. HAM pitted on lap 33 and LEC pitted on lap 34
 2. Hamilton was faster on Hard tyres possibly du to fresher rubber and better setup for dry conditions.
 3. Leclerc had the edge on inters lapping faster than Hamilton and overall had better wet race pace.
+## Visualisations
+<img width="1400" height="600" alt="tyre_strategy" src="https://github.com/user-attachments/assets/54252802-e492-4b89-a19a-27ac72fe1155" />
+This plot showed the overall tyre compund usage by both the the drivers during the Australian Grand Prix
+<img width="1400" height="700" alt="ham_vs_lec_strategy" src="https://github.com/user-attachments/assets/2e8e5b70-0f18-4ea4-a863-65e7e8d76cc9" />
+Here is the lap vs lap tyre and race pace for the drivers which makes it easy to read the plot proving the earlier findings.
+## Tools Used
+ FastF1 -  for the race data 
+ matplotlib - for all the plotting 
+ seaborn - for the visualisation
+ ## Data Source
+ FASTF1 - Here you can get all the race data from F1
+ ## Next Step
+ Next step will be predicting championship using the data of first 12 round of the Calender before the summer break.
