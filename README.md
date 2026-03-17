@@ -11,6 +11,26 @@
 This project is about going through the tyre strategy of Scuderia Ferrari HP F1 team during the 2025 Australian Grand Prix.This race was pretty much a dry race till lap 30 then as the rain started getting heavier the drivers need to change the tyre as soon as possible otherwise they lose the track position and time or worse 
 they could crash.
 
+## Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/Lohchab1212/2025-Australian-grand-prix.git
+cd 2025-Australian-grand-prix
+```
+
+2. Install required libraries
+```bash
+pip install fastf1 pandas matplotlib seaborn
+```
+
+3. Create the cache folder and run the notebook
+```bash
+mkdir f1_cache
+```
+
+Then open `f1_analysis.ipynb` in Jupyter or VS Code and run all cells.
+
 ## RACE - 2025 Australian Grand Prix
 Why this Grand Prix? Since this Grand prix was a rainy one and a true F1 enthusiast 
 knows how strategic a semi wet race is because getting right window fro the inters(Tyre Compound). It all comes down to the timings of the pit stop how well you time the pit stop with the rain starting
