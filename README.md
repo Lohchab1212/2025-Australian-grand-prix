@@ -33,7 +33,7 @@ Then open `f1_analysis.ipynb` in Jupyter or VS Code and run all cells.
 
 ## RACE - 2025 Australian Grand Prix
 Why this Grand Prix? Since this Grand prix was a rainy one and a true F1 enthusiast 
-knows how strategic a semi wet race is because getting right window fro the inters(Tyre Compound). It all comes down to the timings of the pit stop how well you time the pit stop with the rain starting
+knows how strategic a semi wet race is because getting right window for the inters(Tyre Compound). It all comes down to the timings of the pit stop how well you time the pit stop with the rain starting
 as well as when the track becomes dry you don't want to be one with the inters. This race focuses on the tyre strategy of the Ferrari F1 team.
 ## Key Findings 
 
@@ -56,4 +56,4 @@ FASTF1 - Here you can get all the race data from F1
 
 ## Next Step
 
-Next step will be predicting championship using the data of first 12 round of the Calender before the summer break.
+Next step will be predicting championship using the data of first 12 round of the Calendar before the summer break.
