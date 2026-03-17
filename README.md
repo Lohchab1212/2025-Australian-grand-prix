@@ -5,13 +5,13 @@ This project is about going through the tyre strategy of Scuderia Ferrari HP F1 
 
 ## RACE - 2025 Australian Grand Prix
 Why this Grand Prix? Since this Grand prix was a rainy one and a true F1 enthusiast 
-knows how strategic a semi wet race is beacuse getting right window fro the inters(Tyre Compound). It all comes down tot he timings of the pit stop how well you time the pit stop with the rain staring
-as well as when the track becomes dry you don't want to be one with the inters. This race focuses on the tyre strategy of the Ferrai F1 team.
+knows how strategic a semi wet race is because getting right window fro the inters(Tyre Compound). It all comes down to the timings of the pit stop how well you time the pit stop with the rain starting
+as well as when the track becomes dry you don't want to be one with the inters. This race focuses on the tyre strategy of the Ferrari F1 team.
 ## Key Findings 
 This race was pretty much a dry race till lap 30 then as the rain started getting heavier the drivers need to change the tyre as soon as possible otherwise they lose the track position and time or worse 
 they could crash.
-1. Hamilton pitted a lap earlier than Charles Leclrec. HAM pitted on lap 33 and LEC pitted on lap 34
-2. Hamilton was faster on Hard tyres possibly du to fresher rubber and better setup for dry conditions.
+1. Hamilton pitted a lap earlier than Charles Leclerc. HAM pitted on lap 33 and LEC pitted on lap 34
+2. Hamilton was faster on Hard tyres possibly due to fresher rubber and better setup for dry conditions.
 3. Leclerc had the edge on inters lapping faster than Hamilton and overall had better wet race pace.
 ## Visualisations
 <img width="1400" height="600" alt="tyre_strategy" src="https://github.com/user-attachments/assets/54252802-e492-4b89-a19a-27ac72fe1155" />
