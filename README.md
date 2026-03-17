@@ -1,3 +1,10 @@
+
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastF1](https://img.shields.io/badge/FastF1-3.8.1-red)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 # Reading the Race — F1 Tyre Strategy with Python
 
 ## Overview
